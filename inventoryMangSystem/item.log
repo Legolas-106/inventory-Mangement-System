@@ -1,0 +1,3 @@
+INFO 2024-10-17 07:26:18,404 views Retrieved 2 items from the database
+INFO 2024-10-17 07:27:27,189 views Item data is valid: {'name': 'Item 9', 'description': 'Item description here', 'category': 'food', 'stock_in_time': datetime.date(2024, 10, 16), 'expiry_time': datetime.date(2024, 10, 31)}
+INFO 2024-10-17 07:27:27,196 views Item created successfully with ID 10
